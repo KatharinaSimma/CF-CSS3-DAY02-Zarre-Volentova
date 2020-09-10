@@ -1,0 +1,28 @@
+.container {
+	width: 800px;
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+	box-shadow: 21px -22px 141px 25px rgba(0,0,0,0.75);
+
+	
+}
+
+p, li{
+	color: #707070;
+}
+
+header {
+	text-align: center;
+}
+
+h1{
+	color:  #DB0038;
+}
+h2{
+	color:  #3998A3;
+}
+
+h3{
+	color:  #474747;
+}
