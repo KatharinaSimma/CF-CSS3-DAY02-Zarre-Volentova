@@ -1,0 +1,30 @@
+article {
+	background-color: #c2c2c2;
+	display: block;
+	width: 29.3%;
+	margin: 1%;
+	padding: 1%;
+	height: 100px;
+	float: left;
+	text-align: center;
+	
+
+}
+nav {
+	display: block;
+	width: 100%;
+	height: 120px;
+	background-color: #c2c2c2;
+	text-align: center;
+}
+
+footer{
+		display: block;
+		background-color: #c2c2c2;
+
+}
+
+h1 {
+	text-align: center;
+}
+
