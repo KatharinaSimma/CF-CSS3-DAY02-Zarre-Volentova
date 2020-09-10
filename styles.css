@@ -3,7 +3,9 @@
 	display: block;
 	margin-left: auto;
 	margin-right:auto;
-	box-shadow: 21px -22px 141px 25px rgba(0,0,0,0.75);
+	box-shadow: 5px 0px 20px rgba(0,0,0,0.75);
+	padding-left: 50px;
+	padding-right: 50px;
 
 	
 }
@@ -25,4 +27,37 @@ h2{
 
 h3{
 	color:  #474747;
+}
+
+.hero{
+	background-color: #f4f4f4;
+	text-align: center;
+	padding-bottom: 10px;
+
+}
+
+li {
+	padding-bottom: 5px;
+	padding-top: 5px;
+
+}
+
+span {
+	color: #F4B400;
+	font-size: 25px;
+
+}
+
+footer {
+	text-align: center;
+
+}
+
+body {
+font-family: Happy Monkey;
+
+}
+
+.rating {
+		text-align: center;
 }
